@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hello, I'm Atara Nussbaum</h1>
 <h3 align="center">Full-Stack Developer | .NET + React</h3>
 
-<p align="center">
-  📍 Jerusalem, Israel
-</p>
+
 
 ---
 
